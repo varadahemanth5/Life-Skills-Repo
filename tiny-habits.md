@@ -24,7 +24,7 @@
 3. P = Prompt: Prompt refers to a trigger or cue that reminds you to perform the behavior. Without a prompt, the habit might never happen.  
   How to make habits easier : Ensure that your habit has a clear and consistent prompt that reminds you to perform the behavior.
 
-## Behavior = Motivation x Ability x Prompt: The behavior (B) you want to achieve is dependent on three factors:  
+## Behavior = The behavior (B) you want to achieve is dependent on three factors:  
 1. Motivation: You need to be motivated enough to do the task.  
 2. Ability: The task should be easy enough to do (low difficulty).  
 3. Prompt: There should be a clear cue or trigger to remind you to take action.

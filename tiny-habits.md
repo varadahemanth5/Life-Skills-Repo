@@ -65,3 +65,15 @@ The four stages of habit formation— Noticing ,Wanting ,Doing, and Liking—are
 2. Commitment Devices: Set up external consequences that make it difficult or painful to break your commitments.
 3. Social Pressure: Share your goals with others and invite them to hold you accountable.
 4. Remove Temptations: Make it harder to access the cues that trigger your bad habits.
+   
+## How to Make a Habit You Want to Do More of Easier and More Attractive
+1. Make the Cue Invisible: Keep our phone in another room while you’re working or during meals so it’s out of sight and you’re not reminded to check it
+2. Make the Process Unattractive: Delete or disable apps that you tend to use excessively. If you really need them, use a website blocker or app blocker to limit usage.
+3. Make the Habit Harder: Require yourself to complete an action before using your phone, such as getting up and doing 10 minutes of physical activity, before you can check social media.
+Make the Response Unsatisfying: If you end up using the phone excessively, set up a consequence like having to donate to a charity or doing an undesirable task.
+
+## How to Eliminate or Reduce a Habit You Want to Do Less of
+1. Make the Cue Invisible: Keep your phone in another room while you’re working or during meals so it’s out of sight and you’re not reminded to check it.
+2. Make the Process Unattractive: Delete or disable apps that you tend to use excessively (e.g., social media apps). If you really need them, use a website blocker or app blocker to limit usage.
+3. Make the Habit Harder: Require yourself to complete an action before using your phone, such as getting up and doing 10 minutes of physical activity, before you can check social media.
+4. Make the Response Unsatisfying: If you end up using the phone excessively, set up a consequence like having to donate to a charity or doing an undesirable task.
